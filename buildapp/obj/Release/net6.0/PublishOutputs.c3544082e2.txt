@@ -1,0 +1,7 @@
+/Users/soniabenaissa/Desktop/buildapp/buildapp/bin/Release/net6.0/publish/buildapp
+/Users/soniabenaissa/Desktop/buildapp/buildapp/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/soniabenaissa/Desktop/buildapp/buildapp/bin/Release/net6.0/publish/appsettings.json
+/Users/soniabenaissa/Desktop/buildapp/buildapp/bin/Release/net6.0/publish/buildapp.dll
+/Users/soniabenaissa/Desktop/buildapp/buildapp/bin/Release/net6.0/publish/buildapp.deps.json
+/Users/soniabenaissa/Desktop/buildapp/buildapp/bin/Release/net6.0/publish/buildapp.runtimeconfig.json
+/Users/soniabenaissa/Desktop/buildapp/buildapp/bin/Release/net6.0/publish/buildapp.pdb
