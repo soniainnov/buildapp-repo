@@ -8,10 +8,7 @@ trigger:
 
 pool: vmazure
 steps:
-  - task: Bash@3
-    inputs:
-      targetType: 'inline'
-      script: |
-        # Write your commands here
-      
-        echo 'Hello world'
+ 
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
