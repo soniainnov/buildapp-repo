@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmazure
+pool: vmazure
 
 variables:
   solution: '**/*.sln'
